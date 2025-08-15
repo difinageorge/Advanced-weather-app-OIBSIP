@@ -85,7 +85,7 @@ python app.py
 
 ### Advanced Weather App GUI
 
-![Weather App Screenshot](Screenshot 2025-08-16 at 12.27.34 AM.png)
+<img src="Screenshot 2025-08-16 at 12.27.34 AM.png" width="400"/>
 
 ---
 
